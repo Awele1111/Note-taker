@@ -12,7 +12,7 @@ app.get('/notes', (req, res) => {
     // with the contents of the file in json notation.
     // fs.readFile()...
 });
-
+// app.get("/", (req, res) {res.sendFile(path.joi)})
 app.post('/notes', (req, res) => {
     console.log('POST /api/notes successful');
     res.json({ message: 'Success!' });
