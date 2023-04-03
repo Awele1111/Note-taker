@@ -35,7 +35,7 @@ The Footer section presents user with text or icon links to the my GitHub and Li
 
 Below, are screenshots of how my web application currently looks like:
 
-![Note](assets/Portfolio1.png)
+![Note](assets/Portfolio2.png)
 
 
 
